@@ -1,0 +1,1 @@
+To use the OpenMDW license, please copy the LICENSE.openmdw file to the root of your repo where your model is located.  Rename the file to LICENSE. 
