@@ -16,4 +16,8 @@ Please keep in mind that, unless otherwise indicated, any other materials includ
 
 ## More information
 
-Please see the OpenMDW-1.0 FAQ (**location TBD**) for more details.
+Please see the [OpenMDW-1.0 FAQ](./FAQ.md) for more details about OpenMDW-1.0 and its usage.
+
+Documentation in this repository, other than the OpenMDW-1.0 license text itself, is made available under Creative Commons Attribution 4.0 International (CC-BY-4.0), a copy of which is in [`CC-BY-4.0.txt`](./CC-BY-4.0.txt).
+
+The OpenMDW-1.0 license text is made available for use, modification and redistribution without restriction; however, you may not use the name "OpenMDW" or anything confusingly similar to refer to any modified version.
