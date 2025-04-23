@@ -68,11 +68,11 @@ The disclaimers at the end of the license include several specific provisions di
 2. **Ensure all Model Materials** (models, code, data, etc.) that you want to distribute under OpenMDW-1.0 are contained in that repository.
 3. Include **copyright notices** in each file or artifact that you want downstream users to preserve.
 4. **Include any additional documentation** (e.g. `README.md`) describing your project, and referencing the OpenMDW-1.0 license.
-5. If your repository includes third-party materials that you received under a non-OpenMDW license, include copies of those license texts and clearly explain which portions those licenses apply to.
+5. If your repository includes third-party materials that you received under a non-OpenMDW license, **include copies of those license texts** and **clearly explain** which portions those licenses apply to.
 
 ## 10. Is OpenMDW‑1.0 compatible with other open‑source licenses?
 
-**In many cases,** yes. "License compatibility" is a complex and fact-specific topic. But in many cases (especially those involving other "permissive" open source licenses) OpenMDW-1.0 is likely to be compatible, because it is possible to comply with both of them at the same time.
+**In many cases, yes.** "License compatibility" is a complex and fact-specific topic. But in many cases (especially those involving other "permissive" open source licenses) OpenMDW-1.0 is likely to be compatible, because it is possible to comply with both of them at the same time.
 
 Because it is permissive and imposes minimal conditions, you can generally **combine** Model Materials licensed under OpenMDW‑1.0 with code under MIT, Apache-2.0, the BSD family of licenses, and similarly permissive licenses. Care should be taken if integrating with copyleft licenses (e.g. GPL-3.0), as their terms may impose additional requirements on the combined work.
 
