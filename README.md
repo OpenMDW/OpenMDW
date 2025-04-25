@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./logo.png">
+</p>
+
 **OpenMDW License Agreement v1.0: Overview and Purpose**  
 The OpenMDW License Agreement v1.0 is a draft permissive license specifically crafted for machine‑learning models and their related artifacts, collectively referred to as “Model Materials.” It aims to provide a single, easy‑to‑apply license agreement that ensures consistency and clarity across all components of an open AI model release. 
 
