@@ -1,5 +1,5 @@
 <p align="center">
-  <img width="460" height="300" src="./logo.png">
+  <img width="300" height="250" src="./logo.png">
 </p>
 
 **OpenMDW License Agreement v1.0: Overview and Purpose**  
