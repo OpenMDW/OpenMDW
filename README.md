@@ -26,3 +26,15 @@ Please see the [OpenMDW-1.0 FAQ](./FAQ.md) for more details about OpenMDW-1.0 an
 Documentation in this repository, other than the OpenMDW-1.0 license text itself, is made available under Creative Commons Attribution 4.0 International (CC-BY-4.0), a copy of which is in [`CC-BY-4.0.txt`](./CC-BY-4.0.txt).
 
 The OpenMDW-1.0 license text is made available for use, modification and redistribution without restriction; however, you may not use the name "OpenMDW" or anything confusingly similar to refer to any modified version.
+
+## Contributors
+
+Steve Winslow, Linux Foundation
+David Platz, Amazon
+Justin Colannino, Microsoft
+David Rudin, Microsoft
+Jonathan Torres, Meta
+John McBroom, IBM
+Robert Shatto, IBM
+Michael Dolan, Linux Foundation
+Matt White, Linux Foundation
