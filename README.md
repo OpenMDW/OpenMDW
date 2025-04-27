@@ -31,8 +31,6 @@ The OpenMDW-1.0 license text is made available for use, modification and redistr
 
 Steve Winslow, Linux Foundation
 David Platz, Amazon
-Justin Colannino, Microsoft
-David Rudin, Microsoft
 Jonathan Torres, Meta
 John McBroom, IBM
 Robert Shatto, IBM
