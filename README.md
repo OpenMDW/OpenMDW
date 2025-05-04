@@ -33,6 +33,7 @@ Steve Winslow, Linux Foundation
 David Platz, Amazon
 Jonathan Torres, Meta
 John McBroom, IBM
+David Rudin, Microsoft
 Robert Shatto, IBM
 Michael Dolan, Linux Foundation
 Matt White, Linux Foundation
