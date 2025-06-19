@@ -29,11 +29,11 @@ The OpenMDW-1.0 license text is made available for use, modification and redistr
 
 ## Contributors
 
-Steve Winslow, Linux Foundation
-David Platz, Amazon
-Jonathan Torres, Meta
-John McBroom, IBM
-David Rudin, Microsoft
-Robert Shatto, IBM
-Michael Dolan, Linux Foundation
-Matt White, Linux Foundation
+Steve Winslow (Linux Foundation)\
+Matt White (PyTorch Foundation/Linux Foundation)\
+David Platz (Amazon)\
+Jonathan Torres (Meta)\
+John McBroom (IBM)\
+David Rudin (Microsoft)\
+Robert Shatto (IBM)\
+Michael Dolan (Linux Foundation)
