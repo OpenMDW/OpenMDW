@@ -99,3 +99,15 @@ Not at present. The OpenMDW License Agreement, version 1.0, has just been announ
 In the meantime, users of [SPDX short-form identifiers](https://spdx.org/ids) can use the standard `LicenseRef-` format that SPDX provides for any licenses that are not on the SPDX License List, in a manner such as the following:
 
 `SPDX-License-Identifier: LicenseRef-OpenMDW-1.0`
+
+## 13.  How should researchers reference or cite models released under OpenMDW-1.0?
+
+OpenMDW-1.0 does not impose citation. Model contributors may include a CITATION.cff file or citation instructions in the README file.
+
+## 14. What are the expectations for licensing derivative works?
+
+OpenMDW-1.0 is a permissive license, meaning that if you create a derivative work (such as a fine-tuned model using this license), you have to preserve the original license.
+
+## 15. How should OpenMDW-1.0 be referenced in model cards?
+
+Model cards are short documents accompanying trained machine learning models that provide benchmarked evaluation in a variety of conditions. To reference OpenMDW-1.0, it is recommended to set the License field in the model card metadata and link to the full license text of this repository. You can also include a short explanation in the usage or limitations section of the model card if it exists.
