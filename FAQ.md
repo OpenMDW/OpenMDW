@@ -106,7 +106,7 @@ OpenMDW-1.0 does not impose citation. Model contributors may include a CITATION.
 
 ## 14. What are the expectations for licensing derivative works?
 
-OpenMDW-1.0 is a permissive license, meaning that if you create a derivative work (such as a fine-tuned model using this license), you may choose to distribute it under OpenMDW-1.0 or under a different license of your choice.
+OpenMDW-1.0 is a permissive license, meaning that if you create a derivative work (such as a fine-tuned model using this license), you have to preserve the original license.
 
 ## 15. How should OpenMDW-1.0 be referenced in model cards?
 
