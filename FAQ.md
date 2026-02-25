@@ -94,11 +94,11 @@ A model provider may want to consider distributing such non-OpenMDW artifacts in
 
 ## 12. Is "OpenMDW-1.0" a valid SPDX license ID?
 
-Not at present. The OpenMDW License Agreement, version 1.0, has just been announced and has not yet been submitted to SPDX for consideration for the [SPDX License List](https://spdx.org/licenses). We will update this FAQ if and when it is added to the SPDX License List.
+Yes. The OpenMDW License Agreement, version 1.0, was added in version 3.28.0 of the [SPDX License List](https://spdx.org/licenses) with the identifier `OpenMDW-1.0`. See https://spdx.org/licenses/OpenMDW-1.0.html for the OpenMDW-1.0 entry on the list.
 
-In the meantime, users of [SPDX short-form identifiers](https://spdx.org/ids) can use the standard `LicenseRef-` format that SPDX provides for any licenses that are not on the SPDX License List, in a manner such as the following:
+Users of [SPDX short-form identifiers](https://spdx.org/ids) can use the following line in their materials licensed under OpenMDW-1.0:
 
-`SPDX-License-Identifier: LicenseRef-OpenMDW-1.0`
+`SPDX-License-Identifier: OpenMDW-1.0`
 
 ## 13.  How should researchers reference or cite models released under OpenMDW-1.0?
 
