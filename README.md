@@ -37,5 +37,4 @@ John McBroom (IBM)\
 David Rudin (Microsoft)\
 Robert Shatto (IBM)\
 Michael Dolan (Linux Foundation)\
-Meredith Price (NVIDIA)\
 George Chellapa (NVIDIA)
