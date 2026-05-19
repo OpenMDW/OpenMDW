@@ -102,7 +102,7 @@ In the meantime, users of [SPDX short-form identifiers](https://spdx.org/ids) ca
 
 `SPDX-License-Identifier: LicenseRef-OpenMDW-1.1`
 
-The earlier version [`OpenMDW-1.0`](https://github.com/OpenMDW/OpenMDW/blob/main/1.0/LICENSE-openmdw) is listed on the SPDX License List; see [the corresponding FAQ entry for OpenMDW-1.0](https://github.com/OpenMDW/OpenMDW/blob/main/1.0/FAQ-1.0.md#12-is-openmdw-10-a-valid-spdx-license-id) for more information.
+The earlier version [`OpenMDW-1.0`](https://github.com/OpenMDW/OpenMDW/blob/main/1.0/LICENSE.openmdw) is listed on the SPDX License List; see [the corresponding FAQ entry for OpenMDW-1.0](https://github.com/OpenMDW/OpenMDW/blob/main/1.0/FAQ-1.0.md#12-is-openmdw-10-a-valid-spdx-license-id) for more information.
 
 ## 13.  How should researchers reference or cite models released under OpenMDW-1.1?
 
